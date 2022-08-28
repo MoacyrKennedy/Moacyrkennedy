@@ -1,5 +1,5 @@
-### Bem-Vindo, eu sou Moacyr Kennedy
-### Estudante de Engenharia de Software
+### Bem-Vindo, eu sou Moacyr Kennedy ⚡⚡
+### Estudante de Engenharia de Software 👨‍💻
 ### Residência em TIC | Serratec 🚀🚀
 
   ##
