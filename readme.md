@@ -32,7 +32,7 @@
   ##
  
  
-</div>
+
 
 ![snake animation] https://github.com/MoacyrKennedy/MoacyrKennedy/blob/output/github-contribution-grid-snake.svg
 
