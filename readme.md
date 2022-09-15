@@ -34,11 +34,5 @@
  
 </div>
 
-- uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: Moacyrkennedy
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+https://github.com/MoacyrKennedy/MoacyrKennedy/blob/output/github-contribution-grid-snake.svg
 
