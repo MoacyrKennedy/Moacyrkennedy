@@ -13,7 +13,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="MoacyrKennedy-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="MoacyrKennedyl-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MoacyrKennedyl-PostgreSQL" height="30" width="40" src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo">
+  <img align="center" alt="MoacyrKennedyl-CSharp" height="30" width="40" src="![image](https://github.com/MoacyrKennedy/Moacyrkennedy/assets/105392455/5077f898-9703-4011-9c91-936805bee3ae)
+">
   
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
