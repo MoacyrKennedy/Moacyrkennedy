@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="MoacyrKennedy-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="MoacyrKennedyl-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MoacyrKennedyl-CSharp" height="30" width="40" src="![image](https://github.com/MoacyrKennedy/Moacyrkennedy/assets/105392455/5077f898-9703-4011-9c91-936805bee3ae)
+  <img align="center" alt="MoacyrKennedyl-CSharp" height="30" width="40" src=<a href="https://iconscout.com/icons/visualstudio" target="_blank">Free Visualstudio Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
 ">
   
   
