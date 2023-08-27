@@ -1,43 +1,27 @@
-### Bem-Vindo, eu sou Moacyr Kennedy ⚡⚡
-### Estudante de Engenharia de Software 👨‍💻
-### Residência em TIC | Serratec 🚀🚀
+### Hello, I'm Moacyr Kennedy ✌🏾
+### Software Engineering student 👨‍💻
+### ICT Residency | Serratec 🚀🚀
 
   ##
-
-
-<div align="center">
+  <div align="center">
   <a href="https://github.com/MoacyrKennedy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MoacyrKennedy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacyrKennedy&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="MoacyrKennedy-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="MoacyrKennedyl-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="MoacyrKennedyl-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
 
+  ## Technologies & Languages 
+
+  <div style="display: inline-block>"><br/>
+    <img align = "center" alt =".net" src="	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img align = "center" alt ="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <img align = "center" alt ="postgresql" src="	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img align = "center" alt ="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img align = "center" alt ="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align = "center" alt ="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align = "center" alt ="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align = "center" alt ="Rabbitmq" src="	https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  </div><br/>
+  
+    Funny, I have fun with games and I'm a little learner of this new world of programming.
  
-  
-  
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-          
-</div>
-  
-  ##
-  
-<div align="center" style="display: inline-block"> 
-  	<a href="https://www.linkedin.com/in/moacyrkennedy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pxsqA2K9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
- <a href="https://www.instagram.com/kenedy_camacho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  <a href = "mailto:kennedymoacyr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  ##
- 
- 
-
-
-
-
