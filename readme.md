@@ -1,5 +1,5 @@
 ### Hello, I'm Moacyr Kennedy ✌🏾
-### Software Engineering student 👨‍💻
+### Software Engineering 👨‍💻
 ### ICT Residency | Serratec 🚀🚀
 
   ##
