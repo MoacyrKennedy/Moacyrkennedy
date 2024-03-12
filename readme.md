@@ -8,16 +8,17 @@
 <p>
   Hi 👋, I'm Moacyr! A passionate Software Enginner student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Software Enginner and at Unicesumar.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 My aspiration is to build a career in software development, where I can apply and enhance my skills to create impactful solutions..
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 29 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 29 years old and currently reside in Brazil. I have experience in SQL, JavaScript, and .NET. Throughout my career, I have always worked hard, which has allowed me to develop strong communication skills and proficiency in data handling. This dedication to my work has been instrumental in my professional growth.
+
 
   - ⚡ I enjoy reading, whether it’s a captivating book or an engaging comic, as well as watching movies and immersing myself in games! I believe that our personal interests contribute to a more refined perception of things and enhance our problem-solving skills. \o/ I also find joy in exploring new cultures, learning about innovative technologies, and participating in outdoor activities. These experiences not only broaden my horizons but also provide fresh perspectives that can be applied in various situations.
 </details>
