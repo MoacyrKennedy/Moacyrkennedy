@@ -35,7 +35,10 @@
 <!-- Portfolio -->
 ##🔥 Portfolio:
 - [PostgreSQL - Exploratory data PostgreSQL](https://github.com/MoacyrKennedy/Trabalho-final-PostgreSQL)
-
+- [C - Exploratory data C](https://github.com/MoacyrKennedy/Projeto-final-Cart-o-covid-em-c)
+- [.NET - Exploratory data .NET](https://github.com/MoacyrKennedy/Projeto-final-Cart-o-covid-em-c)
+- 
+  
 
 <!-- GIF -->
 <p align="left">
