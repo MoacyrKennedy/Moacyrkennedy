@@ -35,8 +35,8 @@
 <!-- Portfolio -->
 ##🔥 Portfolio:
 - [PostgreSQL - Exploratory data PostgreSQL](https://github.com/MoacyrKennedy/Trabalho-final-PostgreSQL)
-- [C - Exploratory data C](https://github.com/MoacyrKennedy/Projeto-final-Cart-o-covid-em-c)
-- [.NET - Exploratory API RestFull .NET](https://github.com/MoacyrKennedy/ControleFacil)
+- [C - covid vaccine card ](https://github.com/MoacyrKennedy/Projeto-final-Cart-o-covid-em-c)
+- [.NET - Exploratory API RestFull ](https://github.com/MoacyrKennedy/ControleFacil)
 - 
   
 
