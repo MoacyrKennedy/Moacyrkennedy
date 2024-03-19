@@ -30,6 +30,11 @@
 
 
 <!-- GithubStats -->
+<div align="center">
+  <a href="https://github.com/MoacyrKennedy">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoacyrKennedy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoacyrKennedy&show_icons=true&layout=compact&langs_count=7&theme=gotham&hide=SCSS,HLSL,ShaderLab"/>
+    </div>
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=moacyrkennedy&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
