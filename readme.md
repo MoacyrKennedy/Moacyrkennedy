@@ -37,7 +37,7 @@
 - [PostgreSQL - Exploratory data PostgreSQL](https://github.com/MoacyrKennedy/Trabalho-final-PostgreSQL)
 - [C - covid vaccine card ](https://github.com/MoacyrKennedy/Projeto-final-Cart-o-covid-em-c)
 - [.NET - Exploratory API RestFull ](https://github.com/MoacyrKennedy/ControleFacil)
-- 
+-  [Node.js - Job Finder](https://github.com/MoacyrKennedy/JOBFINDER)
   
 
 <!-- GIF -->
