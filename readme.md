@@ -1,82 +1,131 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+# 👋 Olá, eu sou o Moacyr Kennedy!
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Software+Engineer+Student;Full+Stack+Developer;Mobile+Developer;TypeScript+%26+.NET+Enthusiast)](https://git.io/typing-svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=MoacyrKennedy&color=9d4edd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
 </div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Moacyr! A passionate Software Enginner student from Brazil.
-
-  - 🌱 I’m currently studying Software Enginner and at Unicesumar.
-
-  - 🔭 My aspiration is to build a career in software development, where I can apply and enhance my skills to create impactful solutions..
-</p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 29 years old and currently reside in Brazil. I have experience in SQL, JavaScript, and .NET. Throughout my career, I have always worked hard, which has allowed me to develop strong communication skills and proficiency in data handling. This dedication to my work has been instrumental in my professional growth.
+---
 
 
-  - ⚡ I enjoy reading, whether it’s a captivating book or an engaging comic, as well as watching movies and immersing myself in games! I believe that our personal interests contribute to a more refined perception of things and enhance our problem-solving skills. \o/ I also find joy in exploring new cultures, learning about innovative technologies, and participating in outdoor activities. These experiences not only broaden my horizons but also provide fresh perspectives that can be applied in various situations.
-</details>
+## 🚀 Sobre Mim
 
-<!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9nJSNYoMOAV8v6Lr3eWVIA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kenedy_camacho/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacyrkennedy/)
+```javascript
+const moacyr = {
+    localização: "Brasil 🇧🇷",
+    idade: 29,
+    educação: "Engenharia de Software - Unicesumar",
+    foco: "Full Stack • Mobile • Cloud",
+    
+    frontend: ["TypeScript", "Angular 20", "TailwindCSS"],
+    mobile: ["Ionic 8", "Android", "iOS"],
+    backend: [".NET 9", "Node.js", "C#"],
+    databases: ["SQL Server", "PostgreSQL", "MongoDB"],
+    
+    objetivo: "Construir soluções impactantes através da tecnologia",
+    hobbies: ["📚 Leitura", "🎮 Games", "🎬 Filmes", "🌍 Explorar culturas"]
+};
+```
 
+### 💡 O que me motiva
+Transformo ideias em soluções digitais completas! Trabalho com desenvolvimento full-stack usando Angular e TypeScript no frontend, .NET 9 no backend, e crio aplicações mobile com Ionic 8. Minha paixão é construir experiências de usuário incríveis que resolvem problemas reais, sempre com código limpo e arquitetura sólida.
 
-<!-- GithubStats -->
+---
+
+## 🛠️ Arsenal Tecnológico
+
 <div align="center">
-  <a href="https://github.com/MoacyrKennedy">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoacyrKennedy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoacyrKennedy&show_icons=true&layout=compact&langs_count=7&theme=gotham&hide=SCSS,HLSL,ShaderLab"/>
-    </div>
+
+### 💻 Linguagens de Programação
+<img src="https://skillicons.dev/icons?i=typescript,cs,c,js,python,sql" />
+
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,rabbitmq" />
 
 
-<!-- Portfolio -->
-##🔥 Portfolio:
-- [PostgreSQL - Exploratory data PostgreSQL](https://github.com/MoacyrKennedy/Trabalho-final-PostgreSQL)
-- [C - covid vaccine card ](https://github.com/MoacyrKennedy/Projeto-final-Cart-o-covid-em-c)
-- [.NET - Exploratory API RestFull ](https://github.com/MoacyrKennedy/ControleFacil)
--  [Node.js - Job Finder](https://github.com/MoacyrKennedy/JOBFINDER)
+### 🔧 Ferramentas & IDEs
+<img src="https://skillicons.dev/icons?i=rider,vscode,git,github" />
+
+### 🎨 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=typescript,angular,ionic,tailwind,html,css" />
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,azure" />
+
+</div>
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+  <img width="49%" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoacyrKennedy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img width="49%" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoacyrKennedy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=SCSS,HLSL,ShaderLab" />
+</div>
+
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoacyrKennedy&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+<div align="center">
+
+| 🚀 Projeto | 💻 Tecnologia | 📝 Descrição |
+|------------|---------------|--------------|
+| **[ControleFacil](https://github.com/MoacyrKennedy/ControleFacil)** | .NET 9 + Angular | API RESTful + Frontend moderno para controle financeiro |
+| **[JobFinder](https://github.com/MoacyrKennedy/JOBFINDER)** | Node.js + TypeScript | Plataforma de busca de empregos com interface responsiva |
+| **[COVID Vaccine Card](https://github.com/MoacyrKennedy/Projeto-final-Cart-o-covid-em-c)** | C + Mobile | Sistema multiplataforma de cartão de vacinação |
+| **[PostgreSQL Analytics](https://github.com/MoacyrKennedy/Trabalho-final-PostgreSQL)** | PostgreSQL + MongoDB | Análise comparativa entre bancos relacionais e NoSQL |
+
+</div>
+
+---
+
+## 🌟 Atividade Recente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoacyrKennedy&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+</div>
+
+---
+
+## 🤝 Vamos Conectar!
+
+<div align="center">
   
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacyrkennedy/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9nJSNYoMOAV8v6Lr3eWVIA)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kenedy_camacho/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+</div>
 
+---
 
+## 💭 Filosofia de Desenvolvimento
 
+> *"O código é poesia em movimento. Cada linha escrita é uma oportunidade de criar algo extraordinário e impactar vidas positivamente."*
+
+<div align="center">
   
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div>
-
-
-  ## Technologies & Languages 
-
-  <div style="display: inline-block>"><br/>
-    <img align = "center" alt =".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img align = "center" alt ="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-    <img align = "center" alt ="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align = "center" alt ="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img align = "center" alt ="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align = "center" alt ="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align = "center" alt ="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align = "center" alt ="Rabbitmq" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-    <img align = "center" alt ="Rider" src ="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/>
-  </div><br/>
+  **💪 Sempre aprendendo • 🚀 Sempre evoluindo • 💡 Sempre inovando**
   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+  
+</div>
 
-    Funny, I have fun with games and I'm a little learner of this new world of programming.
- 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!;Let's+build+something+amazing+together!" />
+</div>
