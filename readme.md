@@ -58,6 +58,10 @@ Transformo ideias em soluções digitais completas! Trabalho com desenvolvimento
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,azure" />
 
+### ⚙️ DevOps & Infra
+<img src="https://skillicons.dev/icons?i=docker,linux,azure,bash" />
+
+
 </div>
 
 ---
