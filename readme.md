@@ -90,6 +90,7 @@ Transformo ideias em soluções digitais completas! Trabalho com desenvolvimento
 | **[JobFinder](https://github.com/MoacyrKennedy/JOBFINDER)** | Node.js + TypeScript | Plataforma de busca de empregos com interface responsiva |
 | **[COVID Vaccine Card](https://github.com/MoacyrKennedy/Projeto-final-Cart-o-covid-em-c)** | C + Mobile | Sistema multiplataforma de cartão de vacinação |
 | **[PostgreSQL Analytics](https://github.com/MoacyrKennedy/Trabalho-final-PostgreSQL)** | PostgreSQL + MongoDB | Análise comparativa entre bancos relacionais e NoSQL |
+|  **[PedeFacil](https://github.com/MoacyrKennedy/PedeFacil)** | Ionic 8 + Angular 20 | Aplicativo de pedir Comida
 
 </div>
 
@@ -133,3 +134,4 @@ Transformo ideias em soluções digitais completas! Trabalho com desenvolvimento
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!;Let's+build+something+amazing+together!" />
 </div>
+
