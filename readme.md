@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou o Moacyr Kennedy!
 
 <div align="center">
   
@@ -134,4 +133,5 @@ Transformo ideias em soluções digitais completas! Trabalho com desenvolvimento
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!;Let's+build+something+amazing+together!" />
 </div>
+
 
